@@ -7,6 +7,6 @@ public class Student{
                 System.out.println("name :"+name);
                 System.out.println("course :"+course);
                 System.out.println("changes made");
-                 System.out.println("webhook");
+                 System.out.println("webhooks");
         }
 }
